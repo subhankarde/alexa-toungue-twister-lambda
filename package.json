@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Rizmax Academy",
+  "author": "SDe",
   "license": "ISC",
   "dependencies": {
     "ask-sdk-core": "^2.0.10",
